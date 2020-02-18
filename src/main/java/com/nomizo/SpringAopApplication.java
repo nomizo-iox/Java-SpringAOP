@@ -1,4 +1,4 @@
-package com.nomizo.SpringAop;
+package com.nomizo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
