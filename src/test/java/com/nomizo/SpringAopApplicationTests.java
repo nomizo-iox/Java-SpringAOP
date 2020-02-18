@@ -1,4 +1,4 @@
-package com.nomizo.SpringAop;
+package com.nomizo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
